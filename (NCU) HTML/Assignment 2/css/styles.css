@@ -1,0 +1,38 @@
+body{
+    width: 760px;
+}
+.outer{
+    background-color: rgb(0, 204, 92);;
+    width: 1120px;
+}
+
+.inner{
+    padding: 35px;
+    background-color:rebeccapurple ;
+}
+h1{
+    color: red;
+}
+
+.topheading{
+    float: right;
+    padding-right: 45px;
+    font-size: 2.5rem;
+}
+
+.righrh2{
+    float: left;
+    font-size: 1rem;
+}
+
+.login{
+    background-color: salmon;
+    width: 450px;
+    border-style: solid;
+    border: 1px red;
+    padding: 2px 15px 15px 15px;
+}
+.banner{
+    background-color: white;
+    width: 150px;
+}
